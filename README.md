@@ -1,10 +1,10 @@
 ## Jordan Collins
 
 > A Frontend Engineer passionate about building and maintaining Design Systems.
+> 
+> Previous Account: [github.com/JordanCollins](https://github.com/JordanCollins)
 
 <!--
-**j-a-y-s-e-a/j-a-y-s-e-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
