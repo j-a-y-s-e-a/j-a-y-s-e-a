@@ -1,4 +1,6 @@
-## Hi there 👋
+## Jordan Collins
+
+> A Frontend Engineer passionate about building and maintaining Design Systems.
 
 <!--
 **j-a-y-s-e-a/j-a-y-s-e-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
