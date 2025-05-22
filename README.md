@@ -1,6 +1,6 @@
 ## Jordan Collins
 
-> A Frontend Engineer passionate about building and maintaining Design Systems.
+> Frontend Engineer building and maintaining Design Systems.
 > 
 > Previous Account: [github.com/JordanCollins](https://github.com/JordanCollins)
 
